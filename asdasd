@@ -1,0 +1,3 @@
+git remote add origin https://github.com/LakieshaOxx7933/5hfdghfg.git
+git branch -M main
+git push -u origin main
